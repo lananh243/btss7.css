@@ -1,0 +1,16 @@
+img{
+    border: 2px solid red;   border-radius: 10px 10px 0px 0px;   width: 300px; 
+    
+}
+form{
+    border: 1px solid gray;
+    width: 303px;
+    height: 550px;
+}
+h2{
+    padding: 30px;
+}
+b{
+    padding: 30px;
+    color: gray;
+}

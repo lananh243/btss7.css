@@ -1,0 +1,38 @@
+.border{
+    background-color: gray;
+    color:white;
+    padding: 40px 40px;
+    position: relative;
+    display: inline-block;
+    border-radius: 7px;
+    margin: 30px;
+    margin-top: 20px;
+    
+}
+.circle{
+    position: absolute;
+    top: -10px;
+    right: -10px;
+    width: 30px;
+    height: 30px;
+    text-align: center;
+    line-height: 30px;
+    border-radius: 50%;
+    background-color: red;
+    color: white;
+    margin: auto;
+}
+img{
+    width: 30px;
+    height: 30px;
+    position: absolute;
+    top: -10px;
+    right: -10px;
+    width: 30px;
+    height: 30px;
+    text-align: center;
+    line-height: 30px;
+    border-radius: 50%;
+    background-color: red;
+    color: white;
+}
